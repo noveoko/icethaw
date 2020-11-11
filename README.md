@@ -1,4 +1,4 @@
-![Stylized ice and hot iron to form Ice Thaw logo](Isolated.png "Ice Thaw Logo")
+![Stylized ice and hot iron to form Ice Thaw logo](icethaw.png "Ice Thaw Logo")
 
 # icethaw
 A collection of tools and technqiues to conduct Open source video and image investigations
