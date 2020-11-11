@@ -1,8 +1,5 @@
 ![Stylized ice and hot iron to form Ice Thaw logo](icethaw.png "Ice Thaw Logo")
 
-# icethaw
-A collection of tools and technqiues to conduct Open source video and image investigations
-
 This software seeks to empower amateur investigators with the tools required to solve cold cases and get to the truth in a variety of matters.
 
 ## Planned features
